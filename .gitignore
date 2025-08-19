@@ -1,0 +1,6 @@
+.idea/
+.old/
+.vscode/
+.venv*/
+*.egg-info/
+__pycache__/
