@@ -1,5 +1,3 @@
-from pydantic import BaseModel
-
 # LinkML Dumper Utils
 
 This is a small helper package to get the dumping with linkml models more aligned
